@@ -1,0 +1,10 @@
+1. Bug ID
+2. Preconditions
+3. SUMMARY: what? where? when?/Clear description of the problem in the title
+4. Steps to reproduce
+5. Expected result
+6. Actual result
+7. Attachments
+ 
+
+
